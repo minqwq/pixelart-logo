@@ -10,9 +10,9 @@ Logos, Pixel style, by minqwq
 
 - Q:I want print it and sell
 - A:Sure, But you must to say these image by me, If you didn't i will report you
-
+#
 - Q:Can i modify?
 - A:No
-
+#
 - Q:Where is my requested logo?
 - A:Maybe i forgot, Please call me via email
