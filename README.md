@@ -9,7 +9,7 @@ Logos, Pixel style, by minqwq
 # QA
 
 - Q:I want print it and sell
-- A:Sure, But you must to say these image by me, If you didn't i will report you
+- A:You can, But you must to say these image by me, If you didn't i will report you
 - Note:Check are you using FXAA/MSAA, This will be make image ugly
 #
 - Q:Can i modify?
