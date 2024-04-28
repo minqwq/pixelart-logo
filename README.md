@@ -1,5 +1,4 @@
 # Pixel art logo
-#
 > [!Important]
 >
 > Do not use commercially
