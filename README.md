@@ -14,6 +14,9 @@ Im live in china(Time zone:GMT+8), So maybe your request will be reply in night
 
 # QA
 
+Q:I want print and make sticker  
+A:Whatever just make it bro
+
 Q:I want print it and sell  
 A:You can, But you must to say these image by me, If you didn't i will report you
 
