@@ -10,11 +10,11 @@ Wanna else logo? send email to minqwq723897@outlook.com and provide some feature
 
 Q:I want print it and sell  
 A:You can, But you must to say these image by me, If you didn't i will report you  
-> Note:Check are you using FXAA/MSAA, This will be make image ugly
-<hr />
+> Note:Check are you using FXAA/MSAA, This will be make image ugly  
+  
 Q:Can i modify?  
-A:No
-<hr />
+A:No  
+  
 Q:Where is my requested logo?  
 A:Maybe i forgot, Please call me via email  
 > minqwq723897@outlook.com
