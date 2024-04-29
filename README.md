@@ -12,6 +12,11 @@ Wanna else logo? send email to minqwq723897@outlook.com and provide some feature
 **^^^ If i didn't reply your message, please wait a few time, i dont have much time**  
 Im live in china(Time zone:GMT+8), So maybe your request will be reply in night
 
+> [!Note]
+>
+> If your requested logo are custom/unreal(not that game engine)
+> That will be in the "_customlogo" folder
+
 # QA
 
 Q:I want print and make sticker  
