@@ -47,7 +47,7 @@ A:Maybe i forgot, Please call me via email
 >
 > 不允许用于商业
 
-> 但如果你只是想用于非商业(比如自己用)
+> 但如果你只是想用于非商业(比如自己用)  
 > 想干啥随你
 
 用 Pixel Studio 绘画  
@@ -57,7 +57,7 @@ A:Maybe i forgot, Please call me via email
 
 > [!Info]
 >
-> 如果你请求的logo不存在于这个世界上/不真实/是你的个人logo
+> 如果你请求的logo不存在于这个世界上/不真实/是你的个人logo  
 > 那么它会放入"_customlogo"文件夹
 
 # QA
