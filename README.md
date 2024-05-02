@@ -12,7 +12,7 @@
 
 Draw with Pixel Studio  
 If you like someone logo, click ''star'' :)  
-Wanna else logo? send email to minqwq723897@outlook.com and provide some features of this logo(Example:nano - ctrl+x   ctrl+s/archlinux - pacman   aur   keep simplify), if you can, please send that logo picture, i will try to draw that  
+Wanna else logo? send email to minqwq723897@outlook.com or go to issues >> "request logo here" and provide some features of this logo(Example:nano - ctrl+x   ctrl+s/archlinux - pacman   aur   keep simplify), if you can, please send that logo picture, i will try to draw that  
 **^^^ If i didn't reply your message, please wait a few time, i dont have much time**  
 Im live in china(Time zone:GMT+8), So maybe your request will be reply in night
 
@@ -52,7 +52,7 @@ A:Maybe i forgot, Please call me via email
 
 用 Pixel Studio 绘画  
 如果你喜欢某个logo，点一下"star" :)  
-想要别的logo？请发邮件到minqwq723897@outlook.com，并提供关于这个logo的一些信息(比如:archlinux - pacman   aur   keep simplify)  
+想要别的logo？请发邮件到minqwq723897@outlook.com或去issues的request logo here请求，并提供关于这个logo的一些信息(比如:archlinux - pacman   aur   keep simplify)，如果可以，请把原logo以附件发送
 **如果我没回复你，请等上两天，我不像你一样时间充足**  
 
 > [!Info]
