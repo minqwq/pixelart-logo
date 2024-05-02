@@ -6,7 +6,7 @@
 > But if you are want to use non-commercial
 > you can do whatever you want
 
-> [?提示]
+> [?Info]
 >
 > 中文版readme请往下滑
 
@@ -16,7 +16,7 @@ Wanna else logo? send email to minqwq723897@outlook.com and provide some feature
 **^^^ If i didn't reply your message, please wait a few time, i dont have much time**  
 Im live in china(Time zone:GMT+8), So maybe your request will be reply in night
 
-> [!Note]
+> [?Note]
 >
 > If your requested logo are custom/unreal(not that game engine)  
 > That will be in the "_customlogo" folder
@@ -29,7 +29,7 @@ A:Whatever just make it bro
 Q:I want print it and sell  
 A:You can, But you must to say these image by me, If you didn't i will report you
 
-> [!Note]
+> [?Note]
 >
 > Check are you using FXAA/MSAA  
 > This will be make image ugly
@@ -43,7 +43,7 @@ A:Maybe i forgot, Please call me via email
 > minqwq723897@outlook.com
 #
 # Pixel art logo
-> [!]
+> [!Important]
 >
 > 不允许用于商业
 
@@ -55,7 +55,7 @@ A:Maybe i forgot, Please call me via email
 想要别的logo？请发邮件到minqwq723897@outlook.com，并提供关于这个logo的一些信息(比如:archlinux - pacman   aur   keep simplify)  
 **如果我没回复你，请等上两天，我不像你一样时间充足**  
 
-> [?]
+> [?Info]
 >
 > 如果你请求的logo不存在于这个世界上/不真实/是你的个人logo
 > 那么它会放入"_customlogo"文件夹
@@ -68,7 +68,7 @@ A:随你便
 Q:我想打印它并做贴纸，然后售卖它  
 A:你可以售卖，但是你必须说明这些是我画的，如果你没有说明，那么我会对你进行举报处理
 
-> [?]
+> [?Info]
 >
 > 打印前先检查你有没有开FXAA/MSAA(平滑像素)  
 > 这会让图片变得难看
