@@ -43,7 +43,7 @@ A:Maybe i forgot, Please call me via email
 > minqwq723897@outlook.com
 #
 # Pixel art logo
-> [!注意]
+> [!]
 >
 > 不允许用于商业
 
@@ -55,7 +55,7 @@ A:Maybe i forgot, Please call me via email
 想要别的logo？请发邮件到minqwq723897@outlook.com，并提供关于这个logo的一些信息(比如:archlinux - pacman   aur   keep simplify)  
 **如果我没回复你，请等上两天，我不像你一样时间充足**  
 
-> [!备注]
+> [?]
 >
 > 如果你请求的logo不存在于这个世界上/不真实/是你的个人logo
 > 那么它会放入"_customlogo"文件夹
@@ -68,7 +68,7 @@ A:随你便
 Q:我想打印它并做贴纸，然后售卖它  
 A:你可以售卖，但是你必须说明这些是我画的，如果你没有说明，那么我会对你进行举报处理
 
-> [!备注]
+> [?]
 >
 > 打印前先检查你有没有开FXAA/MSAA(平滑像素)  
 > 这会让图片变得难看
