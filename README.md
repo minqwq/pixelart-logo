@@ -52,7 +52,7 @@ A:Maybe i forgot, Please call me via email
 
 用 Pixel Studio 绘画  
 如果你喜欢某个logo，点一下"star" :)  
-想要别的logo？请发邮件到minqwq723897@outlook.com或去issues的request logo here请求，并提供关于这个logo的一些信息(比如:archlinux - pacman   aur   keep simplify)，如果可以，请把原logo以附件发送
+想要别的logo？请发邮件到minqwq723897@outlook.com或去issues的request logo here请求，并提供关于这个logo的一些信息(比如:archlinux - pacman   aur   keep simplify)，如果可以，请把原logo以附件发送  
 **如果我没回复你，请等上两天，我不像你一样时间充足**  
 
 > [!Note]
