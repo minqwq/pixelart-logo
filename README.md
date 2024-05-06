@@ -6,6 +6,8 @@
 > But if you are want to use non-commercial
 > you can do whatever you want
 
+> These images are licensed by "i dont know which to choose"
+
 > [!Note]
 >
 > 中文版readme请往下滑
