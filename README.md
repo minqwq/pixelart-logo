@@ -1,4 +1,7 @@
 # Pixel art logo
+  
+Because i want so i made this little project
+
 > [!Important]
 >
 > Do not use commercially
@@ -12,7 +15,7 @@
 >
 > 中文版readme请往下滑
 
-Draw with Pixel Studio  
+Draw with Pixel Studio(on Android OS)  
 If you like someone logo, click ''star'' :)  
 Wanna else logo? send email to minqwq723897@outlook.com or go to issues >> "request logo here" and provide some features of this logo(Example:nano - ctrl+x   ctrl+s/archlinux - pacman   aur   keep simplify), if you can, please send that logo picture, i will try to draw that  
 **^^^ If i didn't reply your message, please wait a few time, i dont have much time**  
