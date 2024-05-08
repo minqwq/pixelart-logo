@@ -83,4 +83,6 @@ tModLoader(Terraria Mod) Mod - Calamity:
 Ubuntu:
 ![ubuntu](/ubuntu/ubuntu.png)  
 Visual Studio Code:
-![vsc](/visual_studio_code/visualstudiocode.png)
+![vsc](/visual_studio_code/visualstudiocode.png)  
+osu!:
+![osu!](/osu/osu.png)
