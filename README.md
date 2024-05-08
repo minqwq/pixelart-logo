@@ -1,6 +1,7 @@
 ![readmeheadlogo](readmebanner.png)
 <hr />  
 Because i want so i made this little project  
+Fork = Make archive  
 
 [![Star History](https://api.lucabubi.me/chart?username=minqwq&repository=pixelart-logo&color=green)](https://github.com/lucabubi/star-history)
   
