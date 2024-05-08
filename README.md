@@ -50,3 +50,37 @@ Q:Where is my requested logo?
 A:Maybe i forgot, Please call me via email
 
 > minqwq723897@outlook.com
+
+# Images list
+BakaXL:
+![bakaxl](/bakaxl/bakaxl.png)  
+CMatrix:
+![cmatrix](/cmatrix/cmatrix.png)  
+COBOL:
+![cobol](/cobol/cobol.png)  
+CSS:
+![css3](/css/css3.png)  
+Debian:
+![debian](/debian/debian.png)  
+DirCleaner:
+![dircleaner](/dircleaner/dircleaner.png)  
+GitHub:
+![github](/github/github.png)  
+HTML:
+![html5](/html/html5.png)  
+Java:
+![java](/java/java.png)  
+MT File Manager:
+![mt](/mt_file_manager/mt_file_manager.png)  
+Nix OS:
+![nixos](/nixos/nixos.png)  
+OBS Studio:
+![obs](/obs_studio/obs_studio.png)  
+Systemd:
+![systemd](/systemd/systemd.png)  
+tModLoader(Terraria Mod) Mod - Calamity:
+![calamity](/trmod_calamity/trmod_calamity_14.png)  
+Ubuntu:
+![ubuntu](/ubuntu/ubuntu.png)  
+Visual Studio Code:
+![vsc](/visual_studio_code/visualstudiocode.png)
