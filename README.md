@@ -10,16 +10,17 @@ Fork = Make archive
 > Do not use commercially
 
 > But if you are want to use non-commercial
-> you can do whatever you want
-
-> These images are licensed by me
->
-> Under usual circumstances you are not allowed to use this in commercial
->   
-> But some images can
-> See under:
-> # Allowed to use in commercial images
-> **Response Code Series**  
+> you can do whatever you want  
+  
+These images are licensed by me  
+  
+Under usual circumstances you are not allowed to use this in commercial  
+  
+But some images can  
+See under:  
+# Allowed to use in commercial images
+**Response Code Series**  
+<hr />
 
 > [!Note]
 >
