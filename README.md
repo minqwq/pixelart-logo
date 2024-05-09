@@ -85,4 +85,8 @@ Ubuntu:
 Visual Studio Code:
 ![vsc](/visual_studio_code/visualstudiocode.png)  
 osu!:
-![osu!](/osu/osu.png)
+![osu!](/osu/osu.png)  
+403 Forbidden:
+![403](/403forbidden/403forbidden.png)  
+404 Not found:
+![404](/404notfound/404notfound.png)
