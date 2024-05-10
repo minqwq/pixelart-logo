@@ -40,7 +40,7 @@ Im live in china(Time zone:GMT+8), So maybe your request will be reply in night
 
 > [!Note]
 >
-> If your requested logo are custom/unreal(not that game engine)/is your personal logo  
+> If your requested logo are custom/is your personal logo  
 > That will be in the "_customlogo" folder
 
 # QA
