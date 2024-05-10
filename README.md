@@ -8,6 +8,11 @@ Fork = Make archive
 > [!Important]
 >
 > Do not use commercially
+> <hr />
+> From 5-10 to 5-16 my online time is 01:00--04:00(GMT+8)  
+> Other time i cant draw image, because i cant use old device run pixel studio  
+> <hr />
+> My mom's device has been broken, so i give my device to my mom and i use the older device
 
 > But if you are want to use non-commercial
 > you can do whatever you want  
