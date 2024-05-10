@@ -67,6 +67,8 @@ A:Maybe i forgot, Please call me via email
 # Images list
 BakaXL:
 ![bakaxl](/bakaxl/bakaxl.png)  
+BBC:
+![bbc](/bbc/bbc.png)  
 CMatrix:
 ![cmatrix](/cmatrix/cmatrix.png)  
 COBOL:
@@ -83,12 +85,16 @@ HTML:
 ![html5](/html/html5.png)  
 Java:
 ![java](/java/java.png)  
+Kernel Panic:
+![kernelpanic](/kernelpanic/kernelpanic.png)  
 MT File Manager:
 ![mt](/mt_file_manager/mt_file_manager.png)  
 Nix OS:
 ![nixos](/nixos/nixos.png)  
 OBS Studio:
 ![obs](/obs_studio/obs_studio.png)  
+osu!:
+![osu](/osu/osu.png)  
 Systemd:
 ![systemd](/systemd/systemd.png)  
 tModLoader(Terraria Mod) Mod - Calamity:
@@ -97,9 +103,7 @@ Ubuntu:
 ![ubuntu](/ubuntu/ubuntu.png)  
 Visual Studio Code:
 ![vsc](/visual_studio_code/visualstudiocode.png)  
-osu!:
-![osu!](/osu/osu.png)  
 403 Forbidden:
-![403](/403forbidden/403forbidden.png)  
+![403](/_responsecode/403forbidden/403forbidden.png)  
 404 Not found:
-![404](/404notfound/404notfound.png)
+![404](/_responsecode/404notfound/404notfound.png)  
