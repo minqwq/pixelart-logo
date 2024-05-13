@@ -8,14 +8,12 @@ Fork = Make archive
 > [!Important]
 >
 > Do not use commercially
-> <hr />
-> From 5-10 to 5-16 my online time is 01:00--04:00(GMT+8)  
-> Other time i cant draw image, because i cant use old device run pixel studio  
-> <hr />
-> My mom's device has been broken, so i give my device to my mom and i use the older device
 
 > But if you are want to use non-commercial
-> you can do whatever you want  
+> you can do whatever you want
+  
+You can be a contributor if you contribute so much  
+* Only for some people  
   
 These images are licensed by me  
   
@@ -65,10 +63,16 @@ A:Maybe i forgot, Please call me via email
 > minqwq723897@outlook.com
 
 # Images list
+AlmaLinux:
+![almalinux](/almalinux/almalinux.png)  
+Alpine:
+![alpine](/alpine/alpine.png)  
 BakaXL:
 ![bakaxl](/bakaxl/bakaxl.png)  
 BBC:
 ![bbc](/bbc/bbc.png)  
+CentOS:
+![centos](/centos/centos.png)  
 CMatrix:
 ![cmatrix](/cmatrix/cmatrix.png)  
 COBOL:
@@ -79,6 +83,8 @@ Debian:
 ![debian](/debian/debian.png)  
 DirCleaner:
 ![dircleaner](/dircleaner/dircleaner.png)  
+Docker:
+![docker](/docker/docker.png)  
 GitHub:
 ![github](/github/github.png)  
 HTML:
@@ -87,6 +93,8 @@ Java:
 ![java](/java/java.png)  
 Kernel Panic:
 ![kernelpanic](/kernelpanic/kernelpanic.png)  
+Linux From Scratch:
+![linuxfromscratch](/linuxfromscratch/linuxfromscratch.png)  
 MT File Manager:
 ![mt](/mt_file_manager/mt_file_manager.png)  
 Nix OS:
@@ -95,14 +103,24 @@ OBS Studio:
 ![obs](/obs_studio/obs_studio.png)  
 osu!:
 ![osu](/osu/osu.png)  
+Red Hat(RHEL):
+![redhat](/redhat/redhat.png)  
+RockyLinux:
+![rockylinux](/rockylinux/rockylinux.png)  
 Systemd:
 ![systemd](/systemd/systemd.png)  
 tModLoader(Terraria Mod) Mod - Calamity:
 ![calamity](/trmod_calamity/trmod_calamity_14.png)  
 Ubuntu:
 ![ubuntu](/ubuntu/ubuntu.png)  
+Vim:
+![vim](/vim/vim.png)  
+NeoVim:
+![neovim](/neovim/neovim.png)  
 Visual Studio Code:
 ![vsc](/visual_studio_code/visualstudiocode.png)  
+VMWare:
+![vmware](/vmware/vmware.png)  
 403 Forbidden:
 ![403](/_responsecode/403forbidden/403forbidden.png)  
 404 Not found:
