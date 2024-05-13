@@ -69,6 +69,8 @@ Alpine:
 ![alpine](/alpine/alpine.png)  
 BakaXL:
 ![bakaxl](/bakaxl/bakaxl.png)  
+Bash:
+![bash](/bash/bash.png)  
 BBC:
 ![bbc](/bbc/bbc.png)  
 CentOS:
@@ -85,6 +87,12 @@ DirCleaner:
 ![dircleaner](/dircleaner/dircleaner.png)  
 Docker:
 ![docker](/docker/docker.png)  
+Fish:
+![fish](/fish/fish.png)  
+FTP:
+![ftp](/ftp/ftp.png)  
+Gentoo:
+![gentoo](/gentoo/gentoo.png)  
 GitHub:
 ![github](/github/github.png)  
 HTML:
@@ -95,32 +103,62 @@ Kernel Panic:
 ![kernelpanic](/kernelpanic/kernelpanic.png)  
 Linux From Scratch:
 ![linuxfromscratch](/linuxfromscratch/linuxfromscratch.png)  
+Microsoft SQL Server:
+![mssqlserver](/microsoft_sql_server/microsoft_sql_server.png)  
+Minecraft Fabric Loader:
+![mcfabric](/fabricloader/fabricloader.png)  
+![mcfabriclegacy](/fabricloader/fabriclegacy.png)  
 MT File Manager:
 ![mt](/mt_file_manager/mt_file_manager.png)  
+MySQL:
+![mysql](/mysql/mysql.png)  
+NeoVim:
+![neovim](/neovim/neovim.png)  
 Nix OS:
 ![nixos](/nixos/nixos.png)  
 OBS Studio:
 ![obs](/obs_studio/obs_studio.png)  
+OnlyOffice:
+![onlyoffice](/onlyoffice/onlyoffice.png)  
+OpenRC:
+![openrc](/openrc/openrc.png)  
 osu!:
 ![osu](/osu/osu.png)  
+Pipeware:
+![pipeware](/pipeware/pipeware.png)  
+PostgresSQL:
+![postgres_sql](/postgres_sql/postgres_sql.png)  
 Red Hat(RHEL):
 ![redhat](/redhat/redhat.png)  
 RockyLinux:
 ![rockylinux](/rockylinux/rockylinux.png)  
+Runit:
+![runit](/runit/runit.png)  
+SFTP:
+![sftp](/sftp/sftp.png)  
 Systemd:
 ![systemd](/systemd/systemd.png)  
-tModLoader(Terraria Mod) Mod - Calamity:
+SysVInit:
+![sysvinit](/sysvinit/sysvinit.png)  
+TModLoader(1.3):
+![tmodloader13](/tmodloader/tmodloader_13.png)  
+![tmodloader14](/tmodloader/tmodloader_14.png)  
+TModLoader(Terraria Mod) Mod - Calamity:
 ![calamity](/trmod_calamity/trmod_calamity_14.png)  
 Ubuntu:
 ![ubuntu](/ubuntu/ubuntu.png)  
 Vim:
 ![vim](/vim/vim.png)  
-NeoVim:
-![neovim](/neovim/neovim.png)  
+Void Linux:
+![voidlinux](/voidlinux/voidlinux.png)  
 Visual Studio Code:
 ![vsc](/visual_studio_code/visualstudiocode.png)  
 VMWare:
 ![vmware](/vmware/vmware.png)  
+Wayland:
+![wayland](/wayland/wayland.png)  
+zsh:
+![zsh](/zsh/zsh.png)  
 403 Forbidden:
 ![403](/_responsecode/403forbidden/403forbidden.png)  
 404 Not found:
