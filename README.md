@@ -125,7 +125,7 @@ OpenRC:
 osu!:
 ![osu](/osu/osu.png)  
 Pipewire:
-![pipeiare](/pipewire/pipewire.png)  
+![pipewire](/pipewire/pipewire.png)  
 PostgresSQL:
 ![postgres_sql](/postgres_sql/postgres_sql.png)  
 Red Hat(RHEL):
