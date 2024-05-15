@@ -132,6 +132,7 @@ Red Hat(RHEL):
 ![redhat](/redhat/redhat.png)  
 RockyLinux:
 ![rockylinux](/rockylinux/rockylinux.png)  
+![rockylinux_jp](/rockylinux/rockylinux_jp.png)  
 Runit:
 ![runit](/runit/runit.png)  
 SFTP:
