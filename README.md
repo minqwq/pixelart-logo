@@ -140,7 +140,7 @@ Systemd:
 ![systemd](/systemd/systemd.png)  
 SysVInit:
 ![sysvinit](/sysvinit/sysvinit.png)  
-TModLoader(1.3):
+TModLoader:
 ![tmodloader13](/tmodloader/tmodloader_13.png)  
 ![tmodloader14](/tmodloader/tmodloader_14.png)  
 TModLoader(Terraria Mod) Mod - Calamity:
