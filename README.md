@@ -63,104 +63,104 @@ A:Maybe i forgot, Please call me via email
 > minqwq723897@outlook.com
 
 # Images list
-AlmaLinux:
+AlmaLinux:  
 ![almalinux](/almalinux/almalinux.png)  
-Alpine:
+Alpine:  
 ![alpine](/alpine/alpine.png)  
-BakaXL:
+BakaXL:  
 ![bakaxl](/bakaxl/bakaxl.png)  
-Bash:
+Bash:  
 ![bash](/bash/bash.png)  
-BBC:
+BBC:  
 ![bbc](/bbc/bbc.png)  
-CentOS:
+CentOS:  
 ![centos](/centos/centos.png)  
-CMatrix:
+CMatrix:  
 ![cmatrix](/cmatrix/cmatrix.png)  
-COBOL:
+COBOL:  
 ![cobol](/cobol/cobol.png)  
-CSS:
+CSS:  
 ![css3](/css/css3.png)  
-Debian:
+Debian:  
 ![debian](/debian/debian.png)  
-DirCleaner:
+DirCleaner:  
 ![dircleaner](/dircleaner/dircleaner.png)  
-Docker:
+Docker:  
 ![docker](/docker/docker.png)  
-Fish:
+Fish:  
 ![fish](/fish/fish.png)  
-FTP:
+FTP:  
 ![ftp](/ftp/ftp.png)  
-Gentoo:
+Gentoo:  
 ![gentoo](/gentoo/gentoo.png)  
-GitHub:
+GitHub:  
 ![github](/github/github.png)  
-HTML:
+HTML:  
 ![html5](/html/html5.png)  
-Java:
+Java:  
 ![java](/java/java.png)  
-Kernel Panic:
+Kernel Panic:  
 ![kernelpanic](/kernelpanic/kernelpanic.png)  
-Linux From Scratch:
+Linux From Scratch:  
 ![linuxfromscratch](/linuxfromscratch/linuxfromscratch.png)  
-Microsoft SQL Server:
+Microsoft SQL Server:  
 ![mssqlserver](/microsoft_sql_server/microsoft_sql_server.png)  
-Minecraft Fabric Loader:
+Minecraft Fabric Loader:  
 ![mcfabric](/fabricloader/fabricloader.png)  
 ![mcfabriclegacy](/fabricloader/fabriclegacy.png)  
-MT File Manager:
+MT File Manager:  
 ![mt](/mt_file_manager/mt_file_manager.png)  
-MySQL:
+MySQL:  
 ![mysql](/mysql/mysql.png)  
-NeoVim:
+NeoVim:  
 ![neovim](/neovim/neovim.png)  
-Nix OS:
+Nix OS:  
 ![nixos](/nixos/nixos.png)  
-OBS Studio:
+OBS Studio:  
 ![obs](/obs_studio/obs_studio.png)  
-OnlyOffice:
+OnlyOffice:  
 ![onlyoffice](/onlyoffice/onlyoffice.png)  
-OpenRC:
+OpenRC:  
 ![openrc](/openrc/openrc.png)  
-osu!:
+osu!:  
 ![osu](/osu/osu.png)  
-Pipewire:
+Pipewire:  
 ![pipewire](/pipewire/pipewire.png)  
-PostgresSQL:
+PostgresSQL:  
 ![postgres_sql](/postgres_sql/postgres_sql.png)  
-Red Hat(RHEL):
+Red Hat(RHEL):  
 ![redhat](/redhat/redhat.png)  
-RockyLinux:
+RockyLinux:  
 ![rockylinux](/rockylinux/rockylinux.png)  
 ![rockylinux_jp](/rockylinux/rockylinux_jp.png)  
-Runit:
+Runit:  
 ![runit](/runit/runit.png)  
-SFTP:
+SFTP:  
 ![sftp](/sftp/sftp.png)  
-Systemd:
+Systemd:  
 ![systemd](/systemd/systemd.png)  
-SysVInit:
+SysVInit:  
 ![sysvinit](/sysvinit/sysvinit.png)  
-TModLoader:
+TModLoader:  
 ![tmodloader13](/tmodloader/tmodloader_13.png)  
 ![tmodloader14](/tmodloader/tmodloader_14.png)  
-TModLoader(Terraria Mod) Mod - Calamity:
+TModLoader(Terraria Mod) Mod - Calamity:  
 ![calamity](/trmod_calamity/trmod_calamity_14.png)  
-Ubuntu:
+Ubuntu:  
 ![ubuntu](/ubuntu/ubuntu.png)  
-Vim:
+Vim:  
 ![vim](/vim/vim.png)  
-Void Linux:
+Void Linux:  
 ![voidlinux](/voidlinux/voidlinux.png)  
-Visual Studio Code:
+Visual Studio Code:  
 ![vsc](/visual_studio_code/visualstudiocode.png)  
-VMWare:
+VMWare:  
 ![vmware](/vmware/vmware.png)  
-Wayland:
+Wayland:  
 ![wayland](/wayland/wayland.png)  
-zsh:
+zsh:  
 ![zsh](/zsh/zsh.png)  
-403 Forbidden:
+403 Forbidden:  
 ![403](/_responsecode/403forbidden/403forbidden.png)  
-404 Not found:
+404 Not found:  
 ![404](/_responsecode/404notfound/404notfound.png)  
