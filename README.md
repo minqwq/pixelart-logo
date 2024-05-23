@@ -89,18 +89,28 @@ DirCleaner:
 ![dircleaner](/dircleaner/dircleaner.png)  
 Docker:  
 ![docker](/docker/docker.png)  
+Firefox:  
+![firefox](/firefox/firefox.png)  
 Fish:  
 ![fish](/fish/fish.png)  
+Forge(Minecraft Mod Loader):  
+![forge](/forge/forge.png)  
+FreeBSD:  
+![freebsd](/freebsd/freebsd.png)  
 FTP:  
 ![ftp](/ftp/ftp.png)  
 Gentoo:  
 ![gentoo](/gentoo/gentoo.png)  
 GitHub:  
 ![github](/github/github.png)  
+GNU:  
+![gnu](/gnu/gnu.png)  
 HTML:  
 ![html5](/html/html5.png)  
 Java:  
 ![java](/java/java.png)  
+KDE Plasma:  
+![kde_plasma](/kde_plasma/kde_plasma.png)  
 Kernel Panic:  
 ![kernelpanic](/kernelpanic/kernelpanic.png)  
 Linux From Scratch:  
@@ -114,6 +124,8 @@ MT File Manager:
 ![mt](/mt_file_manager/mt_file_manager.png)  
 MySQL:  
 ![mysql](/mysql/mysql.png)  
+NeoForge:  
+![neoforge](/neoforge/neoforge.png)  
 NeoVim:  
 ![neovim](/neovim/neovim.png)  
 Nix OS:  
@@ -122,6 +134,8 @@ OBS Studio:
 ![obs](/obs_studio/obs_studio.png)  
 OnlyOffice:  
 ![onlyoffice](/onlyoffice/onlyoffice.png)  
+OpenBSD:  
+![openbsd](/openbsd/openbsd.png)  
 OpenRC:  
 ![openrc](/openrc/openrc.png)  
 osu!:  
@@ -130,6 +144,10 @@ Pipewire:
 ![pipewire](/pipewire/pipewire.png)  
 PostgresSQL:  
 ![postgres_sql](/postgres_sql/postgres_sql.png)  
+QEMU:  
+![qemu](/qemu/qemu.png)  
+RDP(Microsoft Remote Desktop):  
+![rdp](/rdp/rdp.png)  
 Red Hat(RHEL):  
 ![redhat](/redhat/redhat.png)  
 RockyLinux:  
@@ -139,6 +157,8 @@ Runit:
 ![runit](/runit/runit.png)  
 SFTP:  
 ![sftp](/sftp/sftp.png)  
+Slackware:  
+![slackware](/slackware/slackware.png)  
 Systemd:  
 ![systemd](/systemd/systemd.png)  
 SysVInit:  
