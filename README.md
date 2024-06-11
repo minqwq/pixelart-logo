@@ -14,15 +14,6 @@ Fork = Make archive
   
 You can be a contributor if you contribute so much  
 * Only for some people  
-  
-These images are licensed by me  
-  
-Under usual circumstances you are not allowed to use this in commercial  
-  
-But some images can  
-See under:  
-# Allowed to use in commercial images
-**Response Code Series**  
 <hr />
 
 > [!Note]
